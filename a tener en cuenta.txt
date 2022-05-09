@@ -1,0 +1,9 @@
+hay que empezar a generar los dataframes.
+Usan Postman
+ya scrapearon linkedin con selenium. Scrapping es la mejor alternativa por el momento
+INSTALAR DRIVER DE CHROME PARA SELENIUM
+Estan descargando por un lado empleos. Falta sacar cuantos candidatos hay postulados, por otro lado datos del cantidatos. De aca traer todo lo que se pueda.
+POR LAS DUDAS NO TRAER MAS DE 25 PERFILES PARA QUE NO ME BANEEN
+
+y conectaron con la api de linkdein. Una buena practica seria ir por la API pero esta 
+dificil.

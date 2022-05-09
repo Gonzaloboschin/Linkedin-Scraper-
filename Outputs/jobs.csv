@@ -1,0 +1,1167 @@
+,Posicion,Compañia,Location,Posteado,Detalles
+0,Senior Data Engineer,VTRAC Consulting Corporation (Certified Diversity Co.),Argentina,hace 2 semanas,"VTRAC Consulting Corporation
+Intelligent Solutions
+
+
+Thank you for applying to VTRAC opportunities. Please e-mail your resume as a MS-WORD document in confidence Subject: Senior Data Engineer, Attention: admin@vtrac.com or call: 416-366-2600 x229
+
+Position #: 22xx
+Position: Senior Data Engineer
+Position Type: Remote
+No. of Positions: 1
+Location: Argentina
+
+
+
+Responsibilities
+· Work with client- and server-side engineers to ingest new data and properly surface for regular consumption
+· Develop robust end-to-end data solutions for structured and unstructured data including, but not limited to, ingestion, parsing, integration, auditing, logging, aggregation, normalization, modeling, and error handling
+· Collaborate with cross functional team to resolve data quality and operational issues
+· Participate in an on-call rotation to support the Information Management cluster
+· Interact directly with end users to gather requirements and consult on data integration solutions
+· Identify opportunities for team standardization in coding, deployments, documentation and other related areas and create said standards
+· Create and maintain key metadata artifacts including, but not limited to, data lineage, data dictionaries, and Entity Relationship Diagrams (ERD)
+· Educate the team in emerging related technologies and identify value add opportunities for their implementation
+· Develop Interactive Dashboards and supporting Services that will provide customer intelligence insights
+· Help developing a high-profile, innovative product that will revolutionize the way how businesses attribute success to their marketing tech stacks
+Qualifications
+
+· At least 8 years of hands-on experience working with large data sets
+· Extensive experience with Chatbot Real-time
+· Must be effective in working both independently and in a customer setting
+· Minimum of a BS in a quantitative discipline such as Statistics, Engineering, Computer Science, Applied Mathematics
+· Bachelor’s Degree in Computer Science, Mathematics or Machine Learning
+· 6 years’ experience with C#/VB, HTML/CSS, JavaScript or C++
+· Familiarity with reporting or BI tools
+
+
+
+We thank all candidates in advance. Only selected candidates for interviews will be contacted. For other exciting opportunities, please visit us at www.vtrac.com. VTRAC is an equal opportunity employer.
+Toronto. Houston. New York. Miami. Palo Alto."
+1,Senior Data Engineer (she/he/they),Trafilea,Argentina,hace 1 semana,"About Trafilea
+Trafilea is a global company that builds communities and transformative brands. We own the brands and take care of the entire customer journey, to deliver wow-worthy experiences that influence and empower millions of people globally.
+Our culture is fast-paced and dynamic. We are data-driven enthusiasts, passionate about marketing, exponential technologies, and innovation.
+We have over 300 hundred employees working around the world, connected by the same purpose and core values. Our support for this new way of working has led to being featured in Forbes and FlexJobs as one of the Top 25 Companies for Remote Workers.
+We are looking for dynamic, dedicated, and committed individuals with a strong desire to grow, that can drive the brand forward on its truly exciting journey.
+Do you want to know more about our Brands? Shapermint, Truekind & Empetua
+We're looking for a passionate and methodical Senior Data Engineer, to provide expertise to build and maintain data pipelines and data model pipelines for new and existing products in the company’s data platform, that will impact directly Trafilea’s growth. Must be passionate about data architecture and data warehouse, to create scalable and reliable frameworks to ensure cost-effective and accurate data extraction & transformation pipelines.
+
+Be a part of a team where you will:
+Analysis, Design, implementation, and maintenance pipelines that produce business-critical data reliably and efficiently using cloud technologies.
+Develop new ETLs, using the current Apache Airflow. Propose new initiatives to improve performance, scalability, reliability, and overall robustness.
+Collect, process, and clean data from different sources using Python & SQL.
+Work side by side with the main Architects and Developers to create and ensure best practices and guidelines are being used properly by all projects.
+Assess and communicate effectively the effort for required developments.
+Discover new data sources to improve new and existing data pipelines. Be in charge of building and maintaining data pipelines and data models for new and existing projects.
+Maintain detailed documentation of your work and changes to support data quality and governance.
+Provide feedback and expert points of view as needed to help thrive all data initiatives in the company.
+Improve the quality of existing and new data processes (ETL), incorporating statistical process control, creating alerts when anomalies are received from data sources on every step of the pipeline.
+Create benchmark control of execution times for every pipeline, to control and identify potential availability issues.
+
+Job requirements
+2-3 years of experience as a Data Engineer, ML Engineer, or similar.
+2+ years of experience using Python object-oriented programming and scripting.
+Strong experience creating data pipelines and ETL processes in modern technologies using Apache Airflow as the main workflow management tool.
+2+ years of experience with the AWS data ecosystem (S3, Glue, Athena, Redshift, Lambda, EC2, RDS ...)
+Experience with large-scale data and query optimization techniques using SQL.
+Experience managing and monitoring data lakes systems.
+Strong experience using source control management and CI/CD (GitHub actions/Gitlab pipelines).
+Nice to have: Experience with containerized (Docker, Kubernetes) environments in AWS using EKS/ECS and ECR.
+Nice to have: Knowledge and hands-on on cloud stream-processing systems.
+Nice to have: Hand-on IAC solutions like Terraform or CloudFormation.
+
+What We Have to Offer:
+Proximity doesn’t influence productivity. As a globally distributed team, you can live and work wherever you want.
+A rich experience including the opportunity to collaborate with world-class talents. Encouraging transparency and open communication to all.
+A data-driven, dynamic, energetic work environment, full of talented, goal-oriented, and empathetic people working together to grow and develop both as professionals and human beings.
+A safe space to be who you truly are. We embrace and support diversity, equity and work hard every day to keep becoming more inclusive.
+Openness to new ideas and initiatives: You can always join a squad, tribe, or committee, start new ones. Bring your hobbies and passions and transform them into projects!
+
+For more benefits please visit our Trafilea web Site.
+
+Are you ready? Apply for this position today and join the fastest-growing startup in the world!"
+2,Data Engineer - EY Global Delivery Services,EY,"Buenos Aires, Provincia de Buenos Aires, Argentina",hace 5 días,"CT Data Engineer
+
+EY is a global leader in assurance, tax, transaction and advisory services. Technology is at the heart of what we do and deliver at EY. Technology solutions are integrated in the client services we deliver and are key to our innovation as an organization.
+
+Fueled by strategic investment in technology and innovation, Client Technology seeks to drive growth opportunities and solve complex business problems for our clients through building a robust platform for business and powerful product engine that are vital to innovation at scale. As part of Client Technology, you’ll work with technologists and business experts, blending EY’s deep industry knowledge and innovative ideas with our platforms, capabilities, and technical expertise. As a catalyst for change and growth, you’ll be at the forefront of integrating emerging technologies from AI to Data Analytics into every corner of what we do at EY. That means more growth for you, exciting learning opportunities, career choices, and the chance to make a real impact.
+
+The selected candidate
+Leads the delivery of processes to extract, transform and load data from disparate sources into a form that is consumable by analytics processes, for projects with moderate complexity, using strong technical capabilities
+Designs, develops and produces data models of relatively high complexity, leveraging a sound understanding of data modeling standards to ensure high quality
+Builds networks with other functional teams across the business to help define and deliver business value, and may interface and communicate with program teams, management and stakeholders as required to deliver small to medium-sized projects
+
+Your Key Responsibilities Include
+Leading the production of high-quality data engineering deliverables, helping to ensure project timelines are met, and providing informal mentoring / training to junior members of the team
+Translating requirements, design and solution architecture deliverables into detailed design specifications
+Leading the delivery of data quality reviews including data cleansing where required to ensure integrity and quality
+Leading the delivery of data models, data storage models and data migration to manage data within the organization, for a small to medium-sized project
+Resolving escalated design and implementation issues with moderate to high complexity
+Analyzing the latest industry trends such as cloud computing and distributed processing and beginning to infer risks and benefits of their use in business
+Providing technical expertise to maximize value from current applications, solutions, infrastructure and emerging technologies and seek to continuously improve internal processes
+Developing working relationships with peers across other engineering teams and beginning to collaborate to develop leading data engineering solutions
+Driving adherence to the relevant data engineering and data modeling processes, procedures and standards
+
+Skills And Attributes For Success
+Batch Processing - Capability to design an efficient way of processing high volumes of data where a group of transactions is collected over a period of time
+Data Integration (Sourcing, Storage and Migration) - Capability to design and implement models, capabilities and solutions to manage data within the enterprise (structured and unstructured, data archiving principles, data warehousing, data sourcing, etc.). This includes the data models, storage requirements and migration of data from one system to another
+Data Quality, Profiling and Cleansing - Capability to review (profile) a data set to establish its quality against a defined set of parameters and to highlight data where corrective action (cleansing) is required to remediate the data
+Stream Systems - Capability to discover, integrate, and ingest all available data from the machines that produce it, as fast as it’s produced, in any format, and at any quality
+
+Required Technical Skills
+Experience designing and building Data Platforms integrating disparate data sources
+Knowledge of distributed computing
+Expertise in ETL, SQL
+Expertise working with MPP solutions to deal with massive amount of data
+Expertise in Azure, Azure Data Bricks, Azure SQL, Synapse
+Expertise developing dataflows using NiFi/ADF, Databricks.
+Advanced, hands-on in implementing large scale Datawarehouse and data lakes.
+Advanced, hands-on experience in Spark architecture and implementation
+Experience in working with Distributed Message Systems like Kafka
+Hands on experience in Python, Pyspark or R
+Knowledge of working with structured and unstructured data sources.
+Expert in writing complex SQL and procedures.
+Creating Ingestion workflows using Oozie or similar tools
+Knowledge of security measures like HTTPS and Kerberos
+
+Beneficial Technical Skills
+Knowledge in Graph Databases, preferably Neo4J, Cypher and Cosmos DB
+Graph Data modelling
+Azure Data Lake Store, Databricks Deltalake
+Spark ML
+Experience developing Microservices
+
+Education
+B.S. Computer Science, Data Analytics, Data Science, Engineering, IT, or related field preferred
+Big Data Certification from either Cloudera/Hortonworks/Databricks
+
+What We Look For
+Strong analytical skills and problem-solving ability
+A self-starter, independent-thinker, curious and creative person with ambition and passion
+Excellent inter-personal, communication, collaboration, and presentation skills
+Customer focused
+Excellent time management skills
+Positive and constructive minded
+Takes responsibility for continuous self-learning
+Takes the lead and makes decisions in critical times and tough circumstances
+Attention to detail
+High levels of integrity and honesty
+
+What Working At EY Offers
+
+We offer a competitive remuneration package where you’ll be rewarded for your individual and team performance. Our comprehensive Total Rewards package includes support for flexible working and career development, and with FlexEY you can select benefits that suit your needs, covering holidays, health and well-being, insurance, savings and a wide range of discounts, offers and promotions. Plus, we offer:
+Support, coaching and feedback from some of the most engaging colleagues around
+Opportunities to develop new skills and progress your career
+The freedom and flexibility to handle your role in a way that’s right for you
+
+EY is committed to being an inclusive employer and we are happy to consider flexible working arrangements. We strive to achieve the right balance for our people, enabling us to deliver excellent client service whilst allowing you to build your career without sacrificing your personal priorities.
+
+About EY
+
+As a global leader in assurance, tax, transaction and advisory services, we’re using the finance products, expertise and systems we’ve developed to build a better working world. That starts with a culture that believes in giving you the training, opportunities and creative freedom to make things better. Whenever you join, however long you stay, the exceptional EY experience lasts a lifetime.
+
+If you can confidently demonstrate that you meet the criteria above, please contact us as soon as possible.
+
+Make your mark.
+
+Apply now."
+3,Data Engineer,"BetterVet, Mobile Vet Care","Provincia de Buenos Aires, Argentina",hace 1 semana,"Publicado por
+Cody Adams
+Senior Recruiter, Proud Husband and Father
+Enviar mensaje InMail
+About BetterVet
+BetterVet is a vet-tech company with the vision of creating the most advanced and complete in-home vetcare model in the world. BetterVet is transforming the veterinary industry by creating a delivery solution that provides exceptional care for pets in the home through telemedicine, convenient hours, and in-home visits.
+
+About the Role
+BetterVet is seeking an experienced Data Engineer with 5-7 years of experience to manage and develop all databases, systems, and data syncs and pipelines. This person must understand SQL and NoSQL databases and have strong experience in ETL. As an engineer in this team, the individual will be involved in the plan, build and run activities related to database technology. This role will contribute to the design/architect, solution engineering, and support. This individual should be well versed in database administration and engineering practices and principles.
+
+Responsibilities
+Manage, support, and maintain database technology and infrastructure, adhering to the architectural guidelines and policies.
+Support NoSQL database MongoDB. Manage all data syncs between CRM, Practice Management Database, and Mongodb.
+Analyze, design, develop and maintain database systems
+Responsible for data syncing between systems
+Support business by assuring data issues are fixed.
+Write/maintain scripts for DB automation and application maintenance.
+Maintain development, staging, and production environments .
+Maintain security and user access.
+ETL understanding and experience for syncing data, preferably in JavaScript or Python
+Work closely with Solutions Architect and product team on new requirements.
+Ability to work well as a team and as an individual with minimal supervision.
+Qualifications:
+Bachelors/Degree in Computer Science or other technology field is necessary.
+5-7 years of database engineering and administrative experience
+Strong knowledge and extensive experience with MongoDB technology and other NoSQL are mandatory and a good understanding of distributed systems concepts.
+Sound knowledge of all LINUX and DB utilities. Troubleshoot database production problems and database connectivity issues.
+Should have strong LINUX platform skills and understanding of the network, storage, tiered application environments, and security.
+Proficiency in writing ansible, functions, and packages for administration and DB support and experience with MongoDB Streams and replication will be a plus.
+Experience in DB Backup and Recovery strategies and good knowledge in database concurrency mechanisms.
+Sound knowledge of NoSQL technologies like MongoDB, and understanding of JSON data structures.
+Work experience in a startup preferred
+Benefits and Perks
+Health, dental and vision from day one
+Paid time off
+Paid maternity/paternity leave
+Career advancement opportunities"
+4,Sr. Data Engineer,Chevron,"Buenos Aires, Provincia de Buenos Aires, Argentina",hace 1 semana,"Data Engineer should design so that data products and data pipelines are resilient to change, modular, flexible, scalable, reusable, and cost-effective
+
+The Chevron Business Support Center (BASSC) located in Buenos Aires (Puerto Madero), Argentina, is accepting online applications for the position Sr, Data Engineer. Successful candidates will join the Data Engineering team which is part of a successful multifunction service center with a workforce of more than 700 employees delivering business services and solutions across the globe.
+
+Responsibilities for this position may include but are not limited to:
+Understand business use of data and stakeholder requirements to support work processes and strategic business objectives.
+Leverage data, software engineering, and data science techniques to create business value through data accessibility. Includes data ingestion, data preparation and analytics processing.
+Identify, acquire, cleanse & prepare, store data and develop data products aligned with defined architecture patterns
+Responsible for normalizing and ingesting data from multiple sources
+Contributing to the inner source development of foundational tools, and/or the deployment of technical services.
+Required Qualifications
+Leadership (Align & Inspire) – Prioritize & take ownership of work. Communicate progress. Listen to understand intent & needs. Adjust communication for audience. Be comfortable driving discussions clearly with a wide range of partners and levels of the organization
+Teamwork and Collaboration - Connect on shared goals. Offer suggestions & solutions. Recognize others contributions. Work collaboratively in an agile construct & seek diverse perspectives. Manage tasks that span support groups, end users and vendors resources. Works well with global teams and across time zones
+Innovation & Growth Mindset - Provide feedback & be receptive to feedback received. Share best practices. Challenge the status quo. Simplify processes. Seek opportunities to grow skills.
+Knowledge and/or experience with data acquisition, preparation and validation; data movement and transformation; big data computing; cloud computing, core data architecture; information security technologies and software engineering using technologies such as: Azure Data Factory, Azure Data Bricks, Azure Logic Apps and SQL expertise
+Preferred Qualifications
+BS in Computer Science, Management Information Systems, Computer Engineer or related fields or equivalent experience
+Relocation Options:
+
+Relocation will not be considered.
+
+International Considerations
+
+Expatriate assignments will not be considered.
+
+Chevron regrets that it is unable to sponsor employment Visas or consider individuals on time-limited Visa status for this position.
+
+Chevron participates in E-Verify in certain locations as required by law."
+5,Data Engineer,Toptal,"La Laguna, Córdoba, Argentina",hace 2 horas,"About The Job
+
+Toptal developers work with speed and efficiency to deliver the highest quality of work. We are looking for someone who is passionate about their client’s business, and ready to work on exciting projects with Fortune 500 companies and Silicon Valley startups, with great rates and zero hassles. If you are looking for a place to advance your career, enhance your skill set, and build connections around the globe, Toptal is right for you.
+
+About Toptal
+
+Toptal is an exclusive network of top freelancers from around the world. Fortune 500 companies and Silicon Valley startups hire Toptal for their most important projects. Toptal is one of the fastest-growing fully remote networks and empowers freelance software developers, designers, finance experts, product managers, and project managers worldwide to grow and excel in their freelance careers.
+
+Toptal clients vary in sizes and industries, from enterprise organizations and big tech companies to Silicon Valley startups and renowned universities. Once you enter the network, our matchers will contact you with project opportunities that fit your expertise and preferences. We have experts in over 120 countries who get to work remotely on projects that meet their career ambitions.
+
+About The Role
+
+As a Data Engineer, your main goal is to be one step ahead of data scientists and analysts. You will support them by providing infrastructure and tools they can use to deliver end-to-end solutions to business problems that can be developed rapidly and maintained easily. This is more than building and maintaining ETL pipelines. We need innovation, creativity, and solutions that will have a significant impact on the client’s velocity.
+
+Requirements
+3+ years of professional experience in software development
+Working experience with Python and Pandas.
+Familiarity with the basic principles of distributed computing and data modeling.
+Extensive experience with object-oriented design and coding and testing patterns, including experience with engineering software platforms and data infrastructures.
+Working experience with Airflow and Luigi is a big plus.
+Working experience with Scala is a plus.
+Familiarity with Google Cloud Platform (e.g. GCS and BigQuery) is a plus.
+Working experience with Dimensional Modeling and Rails is a plus.
+Outstanding communication and interpersonal skills.
+Full-time availability is a strong advantage
+If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form to get started.
+
+#RemoteJobDataEngineering"
+6,Data Engineer - Applied AI,JPMorgan Chase & Co.,"Buenos Aires, Provincia de Buenos Aires, Argentina",hace 5 días,"About Our Team
+
+The mission of our Applied AI team is to ensure J.P. Morgan's Global Technology Infrastructure can readily capitalize on the latest AI capabilities, without limitations to scale and complexity. In doing so, the team builds software systems, AI models, technological process and intelligent frameworks that minimize technological risk, while increasing operational efficiency and efficacy across the lines of business.
+
+To achieve this, our team has assembled a diverse range of first-class talent, spanning three specialist pillars of Data Scientists, Engineers and Product leads. Across these pillars, our people work collaboratively, engaging with a broad range of stakeholders and partners to accelerate the adoption and delivery of AI-optimized infrastructure across the firm.
+
+Our team has three core hubs of Jersey City, London and Buenos Aires, and is underpinned by a superb culture. As we have scaled from our ""startup"" roots inside a corporation, we have learned to place a premium on four values as a team: Open collaboration, Always learning, Ethical expertise and Practical innovation. This all makes for an exceptionally friendly, supportive, creative, dynamic, and ultimately impactful environment.
+
+Who are we looking for?
+
+Junior Positions
+
+As we continue to grow, we are looking to hire talented engineers, across a broad range of experience, who share our passion for delivering impactful AI solutions at enterprise scale. We want people who get excited to hear words like 'Big data', 'Spark' and 'Parallel Processing', and who want to work with cutting edge technologies, such as hybrid cloud architectures, streaming methodologies and petabytes of data to process. So, if you are looking at taking your career to the next stage, see if you have the criteria we are looking for:
+Solid knowledge of Python.
+Solid understanding of computer science concepts, such as time and space complexity, data structures and basic algorithms.
+Experience working with one of the industry databases: MySql, Oracle, or any No-SQL data stores.
+Mid-level Positions
+Solid knowledge and industry proven experience with Python.
+Deep understanding of computer science concepts, such as time and space complexity, data structures and basic algorithms.
+Experience in architecture and system design.
+Experience working with one of the industry databases: MySql, Oracle, or any No-SQL data stores.
+Experience building ETL data pipelines.
+Experience working in agile distributed teams.
+Senior Positions
+Deep knowledge and industry proven experience in Python.
+Deep understanding of computer science concepts.
+Significant experience working with one of the industry databases: MySql, Oracle, or any No-SQL data stores.
+Substantial experience in architecture and system design.
+Experience building ETL data pipelines.
+Experience with big data platforms and tools such as Spark, Hadoop, Google BigQuery, Apache Storm etc.
+Experience building and deploying applications to cloud platforms such as AWS, GCP, Azure etc.
+Experience of leading projects and/or agile engineering teams.
+What will your responsibilities be?
+
+As an engineer, you can expect the following responsibilities to form your core book of work:
+Coding in Python.
+Contributing to the design and architecture of AI Solutions.
+Building out data pipelines to run on AWS and private cloud.
+Collaborating with data scientists, product managers and external technical and business teams.
+In Addition To This, Everyone On Our Team Is Encouraged To Participate In Three Other Sets Of Activities, Which We Find Helps Our Team Members Contribute And Grow
+Corporate citizenship: supporting communities of practice or Business Resilience Groups (and across our team we have people representing all manner of diversity, equity and inclusion groups).
+Learning and development: everyone needs time and space to grow, and managers will help you set aside time for this - so you can benefit from the huge amount of internal resources and learning programs available to you.
+Consultancy: we want you to be experts in your specialist field, and if you are ready, we will encourage you to engage with internal clients, speak at our tech events and represent us at external conferences.
+What other benefits are there?
+
+While J.P. Morgan provides extensive benefits to all employees, our own team also has crowd-sourced culture leads who contribute to the cohesion and togetherness of our team, arranging social activities and engagement events for those who want to participate.
+
+What else do we want you to let you know?
+J.P. Morgan is a global leader in financial services, providing strategic advice and products to the world's most prominent corporations, governments, wealthy individuals and institutional investors. Our first-class business in a first-class way approach to serving clients drives everything we do. We strive to build trusted, long-term partnerships to help our clients achieve their business objectives.
+El empleador sólo podrá solicitarle la información estrictamente necesaria para el desempeño en el trabajo que se ofrece. Ley Nº 6471 CABA
+
+J.P. Morgan is a global leader in financial services, providing strategic advice and products to the world's most prominent corporations, governments, wealthy individuals and institutional investors. Our first-class business in a first-class way approach to serving clients drives everything we do. We strive to build trusted, long-term partnerships to help our clients achieve their business objectives.
+
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants' and employees' religious practices and beliefs, as well as any mental health or physical disability needs."
+7,MLOps / Data Engineer,ConverseNow.AI,Argentina,hace 23 horas,"Job ID: 2253
+
+Who We Are
+
+ConverseNow is the leading conversational AI platform for restaurants, automating the process of taking orders across voice channels such as phone, drive-thru and mobile live chat. With cutting-edge technology and a passion for service, we sit at the intersection of Tech, B2B SaaS and Hospitality.
+
+We’ve emerged as an AI and foodservice industry leader, and are enjoying massive growth. Backed by blue chip investors such as CRAFT Ventures (Tesla, Uber, Airbnb, Postmates, Slack), we’ve raised $18M in funding and are gearing up for a series B in the near future. We’re based in Austin, TX, with a remote team distributed across the globe.
+
+ConverseNow is looking for an MLOps / Data Engineer to help in building the ultimate voice-based conversational AI. We’re looking for coders and creators with a refined code sense: people who’ve built cool things, but who can also maintain and scale those things, and who feel proud seeing their code in production.
+
+What You'll Do
+
+Be the technical product owner for the data pipeline, evaluation/benchmarking and monitoring tools working closely with Data Scientists to support their needs
+Design and develop Infrastructure for MlOps, including data pipelines, model serving/versioning and monitoring.
+Design and develop Benchmarking and Evaluation Tools
+Support the NLP team in building proof of concepts (POC)
+Build, operationalize and help take POCs to production
+Support ML Ops and Production Support as required
+
+What You'll Bring
+
+The ideal candidates would have professional experience building data and model pipelines and supporting ML Ops for cutting edge data science teams, be proficient with Python and/or Golang and excited to work in a fast-moving start-up environment
+Strong experience with MLOps - With a focus in building and managing data pipelines
+Strong software engineering, data management skills
+Strong proficiency in Python or Scala. Golang is a plus.
+Experience building scalable services
+Good design and problem solving skills
+Experience working with cloud infrastructure (GCP, AWS, Azure)
+Experience working with docker/containers, and/or Kubernetes
+Strong with SQL and/or NoSQL databases
+Experience designing and creating APIs. Flask or FastAPI knowledge is a plus
+
+What We Provide
+
+Unlimited PTO
+Remote work supplement including laptop
+An incredible team with tremendous passion for the company’s mission, sharing a “Let’s do this” attitude while maintaining a strong work/life balance
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status."
+8,Data Platform Engineer,Belong,"Buenos Aires, Provincia de Buenos Aires, Argentina",hace 1 semana,"Our mission is to create authentic belonging experiences for those who own much-loved homes, and those longing for that feeling.
+
+Belong is changing what it means to rent a home by putting people first. It’s where hospitality meets consumer real estate—and it’s about to redefine an entire industry. We’re backed by Andreessen Horowitz (a16z), GGV Capital, and Battery Ventures, just to name a few of our all-star investors.
+
+Have you been looking to join an early-stage startup? Are you looking for a fast-paced environment where your voice matters? Then, Belong is for you!
+
+We are looking for a data engineering thought leader to design and build a unified cloud data platform that will facilitate the ingestion, storage, processing, and maintenance of large and complex data sources to be used as the single source of truth by the company. This platform will support business intelligence and advanced analytics, enterprise decision support systems, and machine learning applications.
+
+This role provides the opportunity to shape the strategy and vision for a flexible, reliable, and future-ready data platform that will provide a data-driven competitive advantage to a fast-growing company.
+
+Responsabilities
+Architect and build a data engineering pipeline including data ingestion, storage, catalog & search, data processing & analytics, and data access & security layers; design the ETL framework used by all pipelines at the company
+Own the full life cycle of the data lake and data warehouse implementation process, considering business requirements, database design, data sourcing, transformation, loading, and performance tuning.
+Apply knowledge of software engineering fundamentals, including knowledge of algorithms and data structures
+Bring experience building, deploying, and debugging production systems at scale
+Showcase the ability to trade-off the engineering work in terms of value versus cost, maintainability, and generalizability
+Showcase consistency by executing efficiently and proactively against a strategy of complex efforts
+Strive to ensure high-quality outcomes and the best possible user experience
+Exhibit good communication, interpersonal, and collaboration skills self-motivated, passionate about big data technologies, and is eager to drive meaningful impact at a growing tech start-up
+Required Qualifications
+BS or MS degree in Computer Science, Software Engineering, or relevant technical field
+5+ years of experience with at least one object-oriented/functional language (i.e., Python, Java, Scala)
+5+ years of SQL experience
+Experience with relevant industry tools, architectures, and cloud providers (i.e., AWS, Google Cloud, Microsoft Azure, Databricks)
+Experience implementing cloud analytics platforms (i.e., AWS Redshift, Google BigQuery, Azure Data Warehouse, Snowflake)
+Experience with big data technologies and compute services (i.e., Amazon EMR, Spark, Presto, Hive)
+Knowledge of data pipeline and workflow management tools (i.e., Airflow)
+Nice to Have
+Experience with event streaming services (i.e., Kafka)
+Experience with data modeling and transformation (i.e., dbt)
+Experience with building dashboards and integration of data analysis tools (i.e., Looker)
+Experience with integrating the data platform with ML tools (i.e., Sagemaker)
+As soon as you join the team, you will start partnering closely with existing team members such as data analysts, engineers, and senior management. You will get familiarized with existing systems and tools to fully understand the status quo of Belong’s data infrastructure.
+
+Within a few weeks, you will take ownership of designing and building the architecture for Belong’s data analytics platform. You will build the data ingestion, storage, catalog, and processing layers with the ultimate goal to unify all data sources across the company within a cloud data lake or warehouse. Next, you will make sure teams across the company can access the latest and most accurate data insights. This will be accomplished through the high-quality data pipelines you will build to help make key decisions for the company.
+
+By the end of your first 120 days, you will have built a centralized analytics platform – a single source of truth for all data sources – to empower the company with a complete view of the most important data about its users. By the end of your first year, you will have enabled a comprehensive platform that will support big data analytics and exciting machine learning capabilities."
+9,Data Engineer,Wildlife Studios,"Buenos Aires, Provincia de Buenos Aires, Argentina",hace 1 semana,"We're looking for a talented and passionate Senior Data Engineer to join Wildlife's IT Operations team in São Paulo, Brazil or Buenos Aires, Argentina.
+
+The mission of the IT Operations team at Wildlife is to have world-class productivity and efficiency across the company by finding and further investigating efficiency opportunities related to usage and/or provisioning of technology resources.
+
+As a Senior Data Engineer, you’ll play a key role in developing the analyses and algorithms that identify the patterns and type of usage of our data. You will be responsible for finding and further investigating opportunities related to better usage and storage of our data.
+
+We know that the work we do has a high impact on our company's success and culture. The right person for this position is curious by nature, and comfortable in a ""take the initiative"" environment, loves solving problems, and can thrive in a fast and growing business.
+
+What You'll Do
+Be part of a high output team, directly contributing to company results;
+Work proactively and closely with data scientists, product managers game and engineering teams to identify and execute optimizations on existing data pipelines;
+Identify unused data and propose how to handle it (sampling, deletion, move to colder classes of storage);
+Find and propose data modeling optimizations across the data lake to avoid inefficiencies like duplicated data, data normalization, data types, etc (table partitioning, migrating to delta tables);
+Develop anomaly detection capabilities.
+What You'll Need
+University degree in courses related to computing such as Computer Engineering, Computer Science or a related field;
+2+ years of experience working as a data engineer on technically challenging problems;
+Programmer with SQL proficiency;
+Experience creating data pipelines;
+Knowledge and experience with Python or Spark;
+Knowledge and experience with AWS;
+Knowledge and experience with Airflow or other workflow management tool is a differential.
+More About You
+You are a resourceful person with a go-getter attitude;
+You are passionate about the data industry and thirsty for innovation;
+You are not afraid to propose and explore new initiatives;
+You are a determined and metrics oriented engineer who wants to deliver results;
+You have an analytic mindset and focus on ensuring visibility to your clients and peers;
+You are passionate about working on and solving problems;
+You are a team player. You're willing to help out wherever needed.
+About Wildlife
+
+Wildlife is one of the leading mobile game developers and publishers in the world. We have released more than 60 titles, reaching billions of people around the globe. Today, we have offices in Brazil, Argentina, Ireland, and the United States. Here, we create games that will excite, intrigue, and engage our players for years to come!
+
+Equal Opportunity & Affirmative Action
+
+Wildlife is proud to be an Equal Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, colour, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state, and local law.
+
+Wildlife is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process."
+10,Data Engineer,R/GA,"Buenos Aires, Provincia de Buenos Aires, Argentina",hace 2 semanas,"We’re looking for Data experts who are excited to work on transformational experiences for some of the world’s top brands at our Buenos Aires Office.
+
+You will be working in cross-functional teams alongside designers, developers, strategists, and other data specialists to create innovative solutions and bring ideas to life.
+
+We are a team of Data Geeks,
+
+We are obsessed with measuring correctly,
+
+We are delighted integrating scattered Data sources,
+
+We are excited finding a precise predictive model,
+
+We fall in love with sexy Data visualizations.
+
+We aim to create and deliver value through Data.
+
+Less gut-feeling, more informed decisions.
+
+Less Big Data, more Big Insights,
+
+Fewer promises, more results.
+
+We are here to build a more human future, through the power of Data.
+
+Come join us!
+
+Here’s What You Should Know If You Want To Be a Data Engineer On The Data & Marketing Sciences Team At R/GA
+
+On any given day you might
+Design, build and support new and existing Tech infrastructure to extract, transform and distribute data.
+Design data platforms aligned with client requirements under a successful level of performance.
+Integrate data from various unstructured or structured sources, such as public data, geo-data, social media, web logs, transactional databases, flat files and furthermore.
+Optimize the data ecosystem to provide optimal performance under increasing data volumes.
+Partner with Project team members to translate business and functional data requirements into technical designs.
+Prepare Data to be processed by Scientists or Analysts.
+Perform data analysis and data discovery to drive clear information requirements.
+Develop quality standards to ensure data quality and integrity across all data sources.
+The ideal person
+Loves data and has strong infrastructure skills
+Is a proactive and resourceful problem solver
+Is eager to help people make data useful.
+Has experience with Cloud Technologies, Relational Databases and Python.
+Enjoys working with cross-functional teams
+You bring
+2+ years of experience in a related role
+Bachelor's degree in Information Systems, Engineering, Statistics or equivalent education and experience
+Solid understanding of Cloud Services (ideally GCP) and their services (e.g. BigQuery, CloudRun, DataFlow, Dataproc, etc).
+Solid understanding the basics of distributed systems, algorithms, data structures and architectures.
+Proficient in Data Integration and Business Intelligence, showing hands-on experience on: Database systems, data warehousing solutions, ETL tools and API development.
+Fluent English.
+Statistical analysis background is a plus, showing experience on:
+Python, R, Scala, Apache, Spark, SPSS, SAS or any other Data mining / machine learning methodology. NPS, Cross/Up-Sell, Churn, or similar model development."
+11,Data Engineer,Salesforce,Argentina,hace 3 semanas,"To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.
+
+Job Category Products and Technology Job Details
+
+About The Role
+
+As our team expands and looks to reach the next level of sophistication, we are looking for an experienced data engineer to join us on this journey. This person will focus on the backend of our analytics environment but will not necessarily be limited to just this area. They will work closely with our analysts and product teams to understand needs and build the necessary data pipelines to support analytics that help measure progress against our ambitious product goals. They will also work closely with our platform engineering team to architect a scalable, future proof data platform with a high level of automation.
+
+Responsibilities
+Provide critical input on logical and physical architecture around data lake, warehouse, transformations, orchestration process and security
+Provide critical input on schemas and data models for ingestion and customer facing assets such as star schemas
+Develop automation techniques for data provisioning, access control, validation rules, transformation, error handling and pipeline monitoring
+Build scalable ETL processes to deal with a variety of data sources, cadences and granularities dealing with parallel multi-Terabyte workloads
+R&D and prototyping of new design patterns and technologies
+About The Team
+
+You will be joining a newly formed Product Analytics team within the MuleSoft Data Organization, reporting to the Director of Product Analytics. Mulesoft is the fastest growing acquisition in SalesForce history, with no signs of slowing down! The Product Metrics team are a critical function. We partner with product leads to help them understand how our products are used and what behavioral patterns emerge from customer activity. Our services also support other Data teams such as Customer Analytics and Sales Analytics, where we help provide data and content to answer important business questions to support the field, such as Marketing and Customer Success teams.
+
+Required Qualifications
+You have at least 7 years of hands-on work experience designing, building and maintaining data pipelines for large data volumes, with varying structure and frequency
+You are deeply experienced with cloud-based development processes and automation.
+You have strong judgement about modern data architectures and are able to propose and justify alternatives that consider overlapping paradigms such as data lake, lakehouse, warehouse, mart, staging and intermediate layers, central vs hub and spoke models, ETL vs ELT etc. You proposals aim to never compromise on business needs while working within technical limitations of tools and internal policies.
+You have experience working with database platforms and are comfortable doing performance analysis and tuning of indexes, views, partitioning, etc. Expert SQL knowledge is expected.
+You are familiar with the frontend layer of BI tools and understand the key elements of a great analytical user journey.
+You have strong instincts and judgment about the technical backend implications of data analysis needs. You pride yourself on designing scalable and flexible data pipelines.
+You are as comfortable working with git, the command line, and dev environments as you are collaborating with business stakeholders at all levels of seniority to understand their data needs.
+You can write scripts and small programs for orchestration.
+Your written communication is clear and you have the ability to distill complex ideas into accurate and easily understandable takeaways will be keys to your success.
+Beneficial Experience
+Working knowledge of the following technologies:
+AWS data services
+Terraform
+Snowflake
+Matillion
+Tableau
+Python
+Working with modern big data technologies such as Spark, Cassandra, Drill, and related platforms. Given a business case and technical metadata, you are able to evaluate the suitability of such technologies and talk through pros and cons
+Accommodations
+
+If you require assistance due to a disability applying for open positions please submit a request via this Accommodations Request Form .
+
+Posting Statement
+
+At Salesforce we believe that the business of business is to improve the state of our world. Each of us has a responsibility to drive Equality in our communities and workplaces. We are committed to creating a workforce that reflects society through inclusive programs and initiatives such as equal pay, employee resource groups, inclusive benefits, and more. Learn more about Equality at Salesforce and explore our benefits.
+
+Salesforce.com and Salesforce.org are Equal Employment Opportunity and Affirmative Action Employers. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. Salesforce.com and Salesforce.org do not accept unsolicited headhunter and agency resumes. Salesforce.com and Salesforce.org will not pay any third-party agency or company that does not have a signed agreement with Salesforce.com or Salesforce.org .
+
+Salesforce welcomes all."
+12,Data Infrastructure Engineer,Salesforce,Argentina,hace 3 semanas,"To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.
+
+Job Category Products and Technology Job Details
+
+MuleSoft, a Salesforce Company, makes it easy to connect the world’s applications, data and devices. We provide a flexible, unified software platform that enables organizations to easily build application networks using APIs - the digital glue that allows applications to talk to each other and exchange data. MuleSoft is at the heart of the applications and services you use every day, like Netflix, Spotify, and Salesforce, from Global 500 corporations to emerging companies in more than 60 countries.
+
+We’re looking for a Sr Data Infrastructure Engineer for the Product Metrics Team.
+
+MuleSoft is defining the application network category and disrupting the $700Bn IT integration market. This rapid growth drives the urgent need to scale our data and analytics organization quickly and efficiently and take friction out of our processes, platforms and systems. Our team’s mission is to empower business users to unlock the power of data, create new opportunities for innovation and turn insights into competitive advantage. We are building a world-class end-to-end analytics platform and data warehouse to meet the needs of leaders, data scientists and analysts. You will manage the underlying data platform security and infrastructure upon which we build our data ingestion pipelines.
+
+Your Impact
+Engineer reliable and scalable connections between source applications and data warehouse infrastructure
+Work within Salesforce AWS data platform to ensure uptime, reliability, and ease of use through automation, industry-standard best practices, and new and bleeding edge solutions, keeping security top of mind
+Take ownership of our architecture, manage our infrastructure through code and strive every day to make it better (more reliable, scalable, etc.)
+Manage and continuously improve data infrastructure and pipeline system, including Snowflake and CI/CD Pipelines
+Maintain and make sure AWS server instances are patched and resolve any vulnerabilities that come up.
+Build and maintain infrastructure for Machine learning and create a MLOps strategy for MuleSoft.
+Enhance the analytics platform to scale data acquisition, data pipeline and data delivery to citizen data analysts.
+Participate in architecture and code reviews.
+Identify, document and promote best practices. Create or update technical documentation for transition to data consumers.
+Support and maintain an analytics technology ecosystem (data warehouse, ETL and BI tools).
+Manage data administration tasks such as scheduling jobs and troubleshooting job errors.
+Minimum Requirements
+Experience with Infrastructure automation, monitoring, logging, and alerting.
+Experience with Linux systems (e.g. Ubuntu, Amazon Linux) and Bash.
+Experience with CI/CD pipelines (e.g. Jenkins, GitHub Actions).
+Prior experience using data warehousing or building out data warehouses.
+Experience with GDPR, CCPA and building out Security Frameworks.
+Experience with container deployment platforms and tools such as Kubernetes, Docker, Helm, CloudFormation and Terraform.
+Ability to work on multiple initiatives at the same time.
+Relentless focus on performance, usability, and security.
+Sound written and verbal communication and interpersonal skills.
+Ability to work with different technical and business stakeholders across functional field teams to understand and deliver against their data needs .
+Intellectual curiosity, creative problem-solving and time management skills.
+Perks
+Stock options
+Long Term Savings Plan
+Annual performance bonus program
+OSDE 410 for your family group
+Monthly Meal and Grocery Allowance
+Monthly Wellness Reimbursement
+Annual Education Reimbursement
+Additional Life Insurance Coverage
+Employee Stock Purchase Plan
+Unlimited Vacation Days
+Extended Parental Leave
+Fertility and Adoption Support
+Employee Assistance Program
+Employee Discount Program
+Bi-monthly salary inflation adjustment
+Referral Program
+And so much more!
+Accommodations
+
+If you require assistance due to a disability applying for open positions please submit a request via this Accommodations Request Form .
+
+Posting Statement
+
+At Salesforce we believe that the business of business is to improve the state of our world. Each of us has a responsibility to drive Equality in our communities and workplaces. We are committed to creating a workforce that reflects society through inclusive programs and initiatives such as equal pay, employee resource groups, inclusive benefits, and more. Learn more about Equality at Salesforce and explore our benefits.
+
+Salesforce.com and Salesforce.org are Equal Employment Opportunity and Affirmative Action Employers. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. Salesforce.com and Salesforce.org do not accept unsolicited headhunter and agency resumes. Salesforce.com and Salesforce.org will not pay any third-party agency or company that does not have a signed agreement with Salesforce.com or Salesforce.org .
+
+Salesforce welcomes all."
+13,TIP: Senior Data Platform Engineer - Ingestion,Upwork,Argentina,hace 1 semana,"Upwork ($UPWK) is the leading tech solution for companies looking to hire the best talent, maintain flexibility, and get more done. We’re passionate about our mission to create economic opportunities so people have better lives. Every year, more than $2 billion of work is done through Upwork by skilled professionals who want the freedom of working anytime, anywhere. Top companies connecting with extraordinary talent around the globe? Upwork is how.
+
+This is a Contract position through Upwork’s Talent Innovation Program (TIP). Our TIP team is a global group of professionals that augment Upwork’s business. Our TIP team members are located all over the world.
+
+Work/Project Scope
+Develop, maintain, and operate various data ingestion pipelines running on top of the platform
+Participate in developing and maintaining our end-to-end data platform, from data acquisition, real-time data stream, to data lake, enterprise data warehouse.
+Improve and optimize processes for better operability
+Develop and implement data quality rules and validation processes, leading engineering excellence initiatives to improve data quality and issue resolution
+Must Haves(Required Skills)
+Extensive experience in data engineering roles
+Strong Python, SQL, Java skills
+Working knowledge of AWS Kinesis, Firehose, Lambda, and S3
+Real world experience with Apache Airflow in a production environment (writing, maintaining and operating DAGs)
+Experience interacting with external APIs for data ingestion
+Comfortable working with a globally distributed team with minimum supervision and attention to detail
+Can commit at least 3 hours a day overlapping with the working hours of Upwork Data Platform team - typically 1500-1800 UTC (7AM - 10AM PST)
+Upwork is proudly committed to fostering a diverse and inclusive workforce. We never discriminate based on race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical condition), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.
+
+#LI -LD1"
+14,Senior Data Engineer- ETL,Accenture Argentina,"Buenos Aires, Provincia de Buenos Aires, Argentina",hace 1 semana,"🟣 En Accenture Argentina buscamos profesionales apasionados por la innovación que quieran aprender y superarse día a día para sumarse a nuestros equipos de Technology 🟣
+
+🚀¿Querés formar parte de la transformación digital y ser parte de proyectos desafiantes e innovadores?
+
+📌 Qué Desafíos Te Esperan:
+
+Ser parte de grandes proyectos a nivel local y global.
+
+Implementación de tecnologías de vanguardia.
+
+Participar de la transformación digital.
+
+Encargados del desarrollo y mantenimiento de tableros complejos
+
+Encargados del traspaso y empoderamiento de tableros a usuarios
+
+Relevamiento y análisis de necesidades de negocio
+
+Soporte al usuario en sus desarrollos de tableros y seguimiento de buenas prácticas
+
+Lo que te hará exitoso:
+
+Tener experiencia trabajando con ETL Tools, Informática Power Center, .
+
+Tener conocimientos sobre Big Data Analytics, Data Visualization.
+
+Manejar el idioma inglés nice to have.
+
+📌 Un lugar de trabajo único, descubrí los beneficios que tenemos para vos:
+
+🍔 Pedidos Ya
+
+👩‍⚕️ Prepaga Swiss Medical
+
+💻 Reintegro de Conectividad & Servicios
+
+💪 Megatlon 100% Bonificado
+
+🗓 Días Off a partir del año
+
+🌎 Vacaciones Flex
+
+💯 Jornada Flex
+
+📚 Certificaciones bonificadas
+
+🎂 Día de cumpleaños libre
+
+🏆 Bonos
+
+👨‍👩‍👦‍👦 Licencias de Paternidad & Maternidad Extendida
+
+💰 Ayuda económica de Guardería
+
+y muchos ➕!
+
+🌎 Tenemos posiciones 100% remotas, para que puedas realizar tareas increíbles sin tener que trasladarte de tu ciudad.
+
+🌈 EN ACCENTURE, LA IGUALDAD IMPULSA LA INNOVACIÓN
+
+¿Sabías que Accenture fue elegida la compañía más diversa e inclusiva
+
+del mundo? Creemos que la fuerza laboral del futuro es una fuerza igualitaria para todos.
+
+Todas las decisiones referidas al proceso de selección de empleo se tomarán sin hacer distinción, exclusión o preferencia alguna basada en motivos de raza, color, género, orientación sexual, discapacidad, edad, religión, opinión política o sindical, nacionalidad u origen socioeconómico ni ninguna otra prevista en la legislación vigente, que tengan por efecto anular o alterar la igualdad de oportunidades o de trato entre los candidatos."
+15,Data Engineer,Dialpad,Argentina,hace 3 días,"We kindly ask you to submit your resume in English. Thank you!
+
+As the only truly unified cloud communications platform that integrates both UCaaS and CCaaS (contact center) , Dialpad is on a mission to prove that employees don’t need to be in the office, stuck at a desk, or wearing pants to be 110% effective at their job. Our patented Voice Intelligence technology is embedded in every call to transcribe conversations, capture action items, provide coaching, analyze sentiment, and more—in real time.
+
+Who We Are
+
+At Dialpad, work isn’t a place you go, it's a thing you do. And we don’t just build products for everywhere workers—we are everywhere workers. With offices in the Bay Area, Austin, Raleigh, Vancouver, Waterloo, Tokyo, London, Sydney, and Bangalore, along with remote workers around the world, we are dedicated to building a diverse workforce, where each individual is welcomed and valued for their personhood and contribution.
+
+With a $1.2 billion valuation and over $250 million in funding from Google Ventures, Andreessen Horowitz, OMERS Growth Equity, ICONIQ Capital, Felicis Ventures, Work-Bench, Scale Ventures, and other top VCs, Dialpad attracts top talent from leading tech companies, and every member of our team plays an essential role in creating dynamic products that enable workers to collaborate and be productive from anywhere.
+
+The team
+
+Every engineer on our global Engineering team is given the opportunity to take ownership of a large portion of the product where they’re able to see immediate results. Combining natural language processing and artificial intelligence with world-class cloud computing, the things you’ll create at Dialpad will shape the future of work—enabling companies to work from anywhere and making business communication more human.
+
+Our Data team gathers insights from oodles of data using their innate curiosity and technical prowess—informing future products and helping our customers. You’ll work with a variety of teams across the company to provide counsel and recommendations on how to best drive forward global initiatives.
+
+What You Will Achieve
+
+First 3 Months
+You’ll acclimate. You’ll be paired directly with a peer (in addition to your manager) whose job it will be to make sure you have the information and tools you need to be successful
+You’ll work primarily with fully asynchronous modern Python, but we are strong believers in using the right tool for the job, making use of Java, C++, and Elixir in our stack
+You’ll be exposed to Open Source Software. We employ many Open Source technologies to get the job done, and we love to contribute back to those communities. We also maintain Open Source codebases for libraries we’ve created ourselves
+First 6 Months
+You’ll collaborate. All levels of engineers on the team participate in authoring and reviewing PRs for code changes, and RFCs for more major system changes
+You’ll have the opportunity to deploy code daily on Google Cloud Platform using modern best practices like Kubernetes, Docker, and CI/CD Systems
+You’ll work with the team to continuously learn by constantly evaluating and applying state-of-the-art systems and techniques to ensure we build systems which are fault tolerant and highly scalable
+First 12 Months
+You’ll build and manage high-performance real-time data pipelines, taking significant ownership of key components of the stack
+You’ll share. Exploring knowledge and findings with teammates is highly encouraged, with weekly opportunities to host or attend learning sessions including members of both Engineering and Data Science teams
+Who You Are
+You have a Bachelor’s Degree in Computer Science, Mathematics, Software Engineering, or a related field, or equivalent work experience
+You have strong fundamentals in software engineering and computer science
+You’re excited to work on a distributed team; you value collaboration whether your teammate sits beside you or across an entire continent
+You have strong experience working with one or more dynamically typed programming language(s)
+You have a strong desire to continuously learn
+You enjoy efficient evaluation of a problem space and finding the right tool for the job
+You measure & monitor everything ensuring stability, redundancy, and runtime
+You make data-driven decisions - Measure twice, cut once
+You enjoy learning from your experiences and sharing your knowledge with your team
+You work on diverse problems across different systems
+You appreciate code and system maintainability, and support continuous improvement
+Fluency in English
+Bonus Points For Experience With
+The Python ecosystem
+Cloud providers such as Google Cloud Platform or AWS
+git or other version control systems
+Relational and/or non-relational database systems, Pub/Sub, Messaging Systems
+Building and managing batch or streaming data processing pipelines, ETLs
+What We Offer
+
+Culture
+
+We’ve been named a Top Workplace seven times because we truly live and breathe our culture. In alignment with one of our core values, “Skill & Will,” we strive to bring on only the most passionate and talented people to our team. Collectively, Dialers work together to solve problems that help the everyday worker. We foster a collaborative environment where people are elevated, wins are celebrated, and development is encouraged.
+
+Compensation
+
+Teamwork makes the dream work. Recognizing that our talented and committed team members drive our success, Dialpad offers competitive rates in addition to stock options because each Dialer participates in our success.
+
+Equity, Balance, and Belonging
+
+At Dialpad, we value the humanity that makes each of us unique. We strive to ensure everyone is supported equitably, and Dialers are free to bring their full selves to work each day, and celebrate others doing the same. We champion the intersectionality that exists between gender identity, ethnicity, age, disability status, and the many other aspects of our greater humanity.
+
+Dialpad is an equal opportunity employer. We are dedicated to creating a community of
+
+inclusion and an environment free from discrimination or harassment."
+16,Senior Data Integration Engineer,TGV Americas,Argentina,hace 5 días,"Publicado por
+Solange Sullivan
+Tech Recruiter Specialist | US & LATAM
+Enviar mensaje InMail
+At TGV Americas we are looking a Senior Data Integration Engineer with +3 years of programming experience working with Data Integration and tools on the Linux platform
+
+🏠⏱ 💯Remote and full time work.
+🗣 Advanced or fluent English (required)
+🖊 Contractor modality
+
+📌 Required Experience:
+
+● At least 3+years of programming experience working with Data Integration and tools on the Linux platform
+● Excellent knowledge of SQL, Schemas, Data Warehouse
+● Excellent knowledge of Python Programming and processing JSON, XML, CSV files
+● Shell Scripting and good knowledge of Linux commands
+
+📌Role and responsibilities:
+
+● Integrating the WhizAI platform with external enterprise data sources like Databases, Data
+Warehouses, Analytical Stores, Hadoop, and ERP/CRM systems.
+● Build batch processing data pipelines for automating data flow between systems using
+Python and data pipeline/workflow libraries.
+● Data Modelling and Analysis by understanding business requirements and data
+● As a Solutions consultant on our Professional Services team you will work with clients on
+short to medium-term customer engagements solving their big data problems using Python
+and the WhizAI platform.
+
+TGV awaits you, do you dare?
+#TeamTGV #TGV"
+17,Data Engineer - Argentina,AI Fund,Argentina,hace 2 semanas,"Argentina /
+
+Engineering /
+
+Full-time
+
+Who We Are:
+
+Factored (an AI Fund Portfolio company) was conceived in Palo Alto, California by Andrew Ng and a team of highly experienced AI researchers, educators, and engineers to help address the significant shortage of qualified AI & Machine-Learning engineers globally. We know that exceptional technical aptitude, intelligence, communication skills, and passion are equally distributed around the world, and we are very committed to testing, vetting, and nurturing the most talented engineers for our program and on behalf of our clients.
+
+We are currently looking for an exceptionally talented Data Engineer to join our team. In this role, you will be responsible for building and maintaining data ecosystems. This covers all aspects from data acquisition, aggregation, validation, transformation, all the way up to data quality checks and assembling data pipelines.
+
+To succeed in this position you need to be fluent and experienced at creating and optimizing data architectures, building data pipelines, and wrangling data to suit the needs of different clients' projects.
+
+In this role, you will be part of a cross-functional team at an early-stage startup. Factored values are individuals who are self-starters and possess a high degree of initiative, confidence, and accountability to help us grow our team.
+
+What you will be doing:
+
+Creating and maintaining optimal data pipeline architectures across multiple data sources.
+Putting together data storage that meets functional requirements of cross-functional data teams, including building data warehouses, data lakes, or data lakehouses.
+Designing and developing optimal data processing techniques: automating manual processes, data delivery, data validation, data quality and integrity.
+Design, implement and maintain data models that allow analysts and BI specialists to provide actionable insights regarding customer acquisition, operational efficiency and other key business performance metrics.
+Developing and maintaining any necessary ETL processes to feed complex data models and create new tasks in data orchestration pipelines.
+Consuming REST APIs from different third-party providers in order to feed data pipelines and databases.
+Building a highly scalable infrastructure using SQL/NoSQL and Cloud-based big data technologies.
+Make usage of industry-level standards in order to ensure data security and data governance inside organizations.
+
+Required skills:
+
+2+ years of professional experience shipping high-quality, production-ready code in Python.
+Strong computer science foundations, including data structures & algorithms, OS, computer networks, databases, algorithms, object-oriented programming.
+Advanced user of some version control system.
+Experience using relational SQL and NoSQL databases.
+Proven experience creating or maintaining data models in order to process and extract value from large heterogeneous datasets.
+Proactiveness and comfort working in a fast-paced environment.
+Excellent English communication skills and the ability to have in-depth technical discussions with both the engineering team and business people.
+Experience working with Data Lakes and Data Warehouses.
+
+Nice to have:
+
+BSc in Computer Science, Mathematics, or similar fields
+Previous exposure to big data tools, including any of: Hadoop, Spark, Kafka.
+Experience in orchestrating data pipelines using any of the following tools: Matillion, Apache Airflow, GLUE, AWS Lambda, Step functions, GCP data flow.
+Exposure to unit testing and CI/CD processes.
+Experience in orchestrating data pipelines using any of the following tools: Matillion, Apache Airflow, GLUE, AWS Lambda, Step functions, GCP data flow.
+Previous experience using any of the following cloud databases: S3, RDS, Redshift, BigQuery, GCP Storage, Snowflake.
+
+At Factored, we believe that passionate, smart people expect honesty and transparency, as well as the freedom to do the best work of their lives while learning and growing as much as possible. Great people enjoy working with other passionate, smart people, so we believe in hiring right, and are very selective about who joins our team. Once we hire you, we will invest in you and support your career and professional growth in many meaningful ways. We hire people who are supremely intelligent and talented, but we recognize that intelligence is not enough. Perhaps more importantly, we look for those who are also passionate about our mission and are honest, diligent, collaborative, kind to others, and fun to be around. Life is too short to work with people who don’t inspire you.
+
+We are a transparent workplace, where EVERYBODY has a voice in building OUR company, and where learning and growth are available to everyone based on their merits, not just on stamps on their resume. As impressive as some of the stamps on our resumes are, we recognize that human talent and passion exist everywhere, and come from many backgrounds, so stamps matter much less than results. All of us are dedicated doers and are highly energetic, focusing vehemently on execution because we know that the best learning happens by doing. We recognize that we are creating OUR COMPANY TOGETHER, which is not only a high-performing fast-growing business but is changing the way the world perceives the quality of technical talent in Latin America. We are fueled by the great positive impact we are making in the places where we do business and are committed to accelerating careers and investing in hundreds (and hopefully thousands) of highly talented data science engineers and data analysts.
+
+In short, our business is about people, so we hire the best people and invest as much as possible in making them fall in love with their work, their learning, and their mission. When not nerding out on data science, we love to make music together, play sports, play games, dance salsa, cook delicious food, brew the best coffee, throw the best parties, and generally have a great time with each other."
+18,Data Engineer (Remote),Blue Orange Digital,"Córdoba, Córdoba, Argentina",hace 1 semana,"Publicado por
+Celia Jones
+Blue Orange Digital • We're Hiring • Machine Learning Data Analytics • Operations • Writer
+Enviar mensaje InMail
+This is a full-time, fully remote role for Latin American candidates. Resume must demonstrate English ability. Must be within +/- 2 hours of Eastern Standard Timezone(NYC)
+
+—
+
+Founded by freelance engineers, Blue Orange Digital wanted to bring an engineering-first approach to the development agency model. We work on projects that use the latest and greatest technologies. We care about the products we build and only work with clients who understand that good applications come from happy engineers and team members. We’re headquartered in NYC and DC with additional remote engineers across the US and Latin America.
+
+Blue Orange Digital is looking for a Data Engineer to join our talented multi-disciplinary team. We build data analytics platforms for our clients that incorporate machine learning to solve business problems. Blue Orange Digital works across multiple industries, this role provides an exciting set of experiences across a wide range of domains.
+
+Your primary focus will be the architecting and developing of systems that include data ingestion, data processing, algorithm development. Major technologies involved include AWS (Lambda, Glue, CloudFormation, EMR), Python 3, Spark, Pandas. Blue Orange engineers take end-to-end ownership of their code and platforms, so the ideal candidate for this position has a mixture of experience in Cloud Engineering and Data Engineering.
+
+Core Responsibilities & Skills
+
+Architecting, building, and maintaining modern, scalable data architectures on AWS
+Building resilient production ETL pipelines using workflow orchestration tools such as Airflow, Prefect, AWS Step Functions
+Deploying and scaling machine learning models in production.
+Data exploration, analysis, and reporting with an eye towards developing a narrative using Notebooks.
+
+Qualifications
+
+BA/BS degree in Computer Science or a related technical field, or equivalent practical experience.
+Advanced experience in Python with an excellent understanding of computer science fundamentals, complex data structure, data processing, data quality, data lifecycle, and algorithms.
+Experience in Amazon AWS, DevOps, and Automation (Cloud Formation)
+AWS certification, or progress toward, at the associate level (Solutions Architect or Developer), or specialty (Big Data) a strong advantage.
+Enjoys collaborating with other engineers on architecture and sharing designs with the team
+Excellent verbal and written English communication.
+Interacts with others using sound judgment, good humor, and consistent fairness in a fast-paced environment
+
+Our Benefits Include:
+
+Full-time fully Remote
+Flexible Schedule
+Paid Time Off (PTO)
+A ""Cloud Guru” account for continuing education and professional growth
+Paid parental/bereavement leave
+Worldwide recognized clients to build skills for an excellent resume
+Top-Notch team to learn and grow with
+
+Salary: $42,000 - $78,000.00 USD per year
+
+Company Introduction
+
+""Top 10 AI Development and Consulting Agencies in NYC"" - Clutch
+“Top 5 Big Data Analytics Agencies in Washington D.C.” - The Manifest
+As seen in:
+IBM thinkLeaders, Dell Innovators, YahooFinance, Global Banking & Finance Review Magazine, IoT Council of Europe, AiBusiness, Data-Driven Investor, DataFloq, Supply Chain Matters, Machine Learning Times.
+Founded by freelance engineers, Blue Orange Digital aims to bring an engineering-first approach to the development agency model. We aim to work on projects that use the latest and greatest technologies. We care about the products we build and only work with clients who understand that good applications come from happy engineers. We are an entirely distributed team with members all across the US and Latin America.
+
+SEE ALL OPEN JOBS:
+BlueOrange.Digital >Careers>Apply Now> breezy.hr
+QUICK APPLY(3 min) with your Linkedin profile(or downloaded PDF version), Indeed profile, or attach an English resume. Done.
+Blue Orange Digital is an equal opportunity employer."
+19,Senior Data Engineer - Applied AI,JPMorgan Chase & Co.,"Buenos Aires, Provincia de Buenos Aires, Argentina",hace 1 mes,"We are searching for a data engineer who is very enthusiastic about data to focus on building structured high-quality data solutions which we use to evolve our products and data pipelines to bring experiences to our millions of global users across the firm. The ideal person gets excited to hear words like 'Yottabytes', 'Spark' and 'Parallel Processing' .
+
+As a Data Engineer, you will be responsible for building data pipelines, tools and frameworks that enable data scientists, software engineers, product managers and executives to deliver value through products that have AI and ML at its core. The role offers a high exposure to cutting edge technologies as hybrid cloud architectures, streaming methodologies and petabytes of data to process in time and manner.
+
+What You'll Do
+Build, design and architect new data related products and systems
+Work closely with top-level data scientists to implement and productize scalable data models
+Build large scale data processing systems
+Work with state-of-the-art data processing frameworks, technologies, and platforms
+Explore new ways of producing, processing, and analyzing data in order to gain insights into both our users and our product features.
+Improve data quality through testing, tooling and continuously evaluating performance
+Work in a collaborative and multi-disciplinary team of software engineers, data analysts, data scientists, and decision-makers, such as product owners and product managers to build solutions and gain novel insights
+Work closely with key stakeholders
+Act as the bridge between our backend and analysts by working on data cataloguing/management and build/maintain crucial data pipelines.
+Work in multi-functional agile teams with end-to-end responsibility for product development and delivery within your mission.
+What You Know
+BS or MS degree in STEM field or equivalent experience/knowledge
+Strong understanding of computer science fundamentals (data structures, algorithms, optimization) and Software Engineering (OOP, design, architecture, etc)
+Experience in software development using Java, Scala, Go or Python
+Solid knowledge of SQL, database design and query optimization
+Experience building ETL processes and APIs
+Extensive experience designing and developing software with a proven track record on SDLC work and best development practices
+Exceptional communication skills, customer focus and necessary expertise in formal and informal testing techniques as well as quality measurement
+Basic knowledge of statistics and Data Science process, tools and techniques
+Nice to have
+Continuous integration tools
+Experience in the development of micro-services and distributed systems
+Experience with container tools
+Knowledge in web development (HTML, CSS, Javascript) and web frameworks (ReactJS)
+Unix/Linux and shell scripting experiences
+Who You Are
+You don't like leaving questions unanswered and you love exploring/understanding data.
+You care about agile software processes, data-driven development, reliability, and responsible experimentation.
+You are passionate about crafting clean code and have a steady foundation in coding and building data pipelines.
+You are a life time learner always looking to research, explore and develop new skills and knowledge.
+You love visualizing your data findings in a clear and easy to understand way, while capturing corner cases of implementations.
+You are a communicative person that values building strong relationships with colleagues and stakeholders and have the ability to explain complex topics in simple terms.
+You are interested in being the glue between engineering and analysis.
+You have passion for solving business problems using technology
+What We Offer
+The opportunity of working on projects using cutting-edge technologies
+An start-up and scientific like environment
+Personal development trainings
+Competitive salary
+Performance-based annual bonus
+El empleador sólo podrá solicitarle la información estrictamente necesaria para el desempeño en el trabajo que se ofrece. Ley Nº 6471 CABA
+
+J.P. Morgan is a global leader in financial services, providing strategic advice and products to the world's most prominent corporations, governments, wealthy individuals and institutional investors. Our first-class business in a first-class way approach to serving clients drives everything we do. We strive to build trusted, long-term partnerships to help our clients achieve their business objectives.
+
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants' and employees' religious practices and beliefs, as well as any mental health or physical disability needs."
+20,Senior Data Engineer,Toptal,"Buenos Aires, Provincia de Buenos Aires, Argentina",hace 1 día,"About Toptal
+
+Toptal is a global network of top freelance talent in business, design, and technology that enables companies to scale their teams, on-demand. With $200+ million in annual revenue and over 40% year-over-year growth, Toptal is the world’s largest fully remote company.
+
+We take the best elements of virtual teams and combine them with a support structure that encourages innovation, social interaction, and fun. We see no borders, move at a fast pace, and are never afraid to break the mold.
+
+Position Description
+
+At Toptal, we measure everything and always rely on data to guide all of our initiatives, including both our long-term strategy and our day-to-day operations.
+
+As a Senior Data Engineer, your main goal is to be one step ahead of data scientists and analysts. You will support them by providing infrastructure and tools they can use to deliver end-to-end solutions to business problems that can be developed rapidly and maintained easily. This is more than building and maintaining ETL pipelines. We need innovation, creativity, and solutions that will have a significant impact on our velocity. We, in turn, will give you autonomy and freedom to turn your ideas into reality.
+
+This is a remote position that can be done from anywhere. Due to the remote nature of this role, we are unable to provide visa sponsorship. Resumes and communication must be submitted in English.
+
+Responsibilities
+Build scalable, highly performant infrastructure for delivering clear business insights from a variety of raw data sources.
+Develop batch & real-time analytical solutions, prototypes, and proofs of concept for selected solutions.
+Build frameworks and tools to empower our data scientists and analysts.
+Implement complex analytical projects with a focus on collecting, managing, analyzing, and visualizing data.
+Be in constant communication with team members and other relevant parties and convey results efficiently and clearly.
+In The First Week, Expect To
+Meet mentors that will help you during your onboarding month.
+Start participating in company-wide training sessions.
+Setup your local environment and become familiar with our tech stack.
+In The First Month, Expect To
+Build your first Pull Request and have it deployed to production.
+Learn about the technology that powers Toptal - the services, patterns, and libraries we use and develop.
+Have a good understanding of Toptal’s business.
+Develop a deeper understanding of our technology, processes, and product pipeline.
+In The First Three Months, Expect To
+Have strong knowledge of Toptal’s business.
+Actively supply software planning, development, and maintenance.
+Be ready to propose and implement improvements to Toptal’s processes and codebase.
+Deliver value in a regular cadence.
+Get comfortable in your daily work within your team.
+In The First Six Months, Expect To
+Lead technical initiatives on our team.
+Drive improvements to the codebase and processes.
+Contribute to planning and executing multi-sprint initiatives inside your team.
+Be able to not only solve complex problems, but also consider multiple solutions, weigh them and decide on the best course of action.
+Proactively identify technical debt and product areas that require attention or improvements and suggest improvements in our technology stack.
+In The First Year, Expect To
+Have a detailed understanding of Toptal’s business, collaboration rituals, processes, performance, and future work.
+Determine what your career path looks like at Toptal.
+Mentor Toptal’s new team members.
+Meet your team in person during an off-site.
+Give and receive 360 feedback in a yearly review cycle.
+Requirements
+Working experience with Python and Pandas.
+Experience with SQL.
+Familiarity with the basic principles of distributed computing and data modeling.
+Extensive experience with object-oriented design and coding and testing patterns, including experience with engineering software platforms and data infrastructures.
+Working experience with Airflow and Luigi is a big plus.
+Working experience with Scala is a plus.
+Familiarity with Google Cloud Platform (e.g. GCS and BigQuery) is a plus.
+Working experience with Dimensional Modeling and Rails is a plus.
+Outstanding communication and interpersonal skills.
+Be excited about collaborating daily with your team and other groups while working via a distributed model.
+Be eager to help your teammates, share your knowledge with them, and learn from them.
+Be open to receiving constructive feedback.
+You must be a world-class individual contributor to thrive at Toptal. You will not be here just to tell other people what to do.
+For Toptal Use Only: #europe #southamerica"
+21,Data Engineer (CRM specialist),Swvl,"Provincia de Buenos Aires, Argentina",hace 1 semana,"Publicado por
+Lucas Kalifon
+Talent Acquisition Leader
+Enviar mensaje InMail
+About Us
+SWVL is the leading high technology company on the mass transportation market. We
+are a fast growing, data driven company which is disrupting the public transportation market in Egypt (and abroad) making people’s lives better on a daily basis.
+
+It started with an observation turning into a realization, too many cars on the streets, wasting our limited resources: time, space and money.
+
+We had to question why we depend so much on our cars? And what are the consequent pains of moving around the city? Rush hours, traffic, terrible driving habits and unavailability of parking spots came rushing through our minds in addition to the pain of the high cost of on-demand services.
+
+While an affordable decent public commuting solution is not accessible, we thought how can we improve people’s lives? And here Swvl was created, revolutionizing the transportation scene in Egypt, through providing a technology-based alternative to public transportation, a smart solution that solves the transportation equation, leading to helping more commute for less, with ease and comfort.
+
+Swvl is a revolutionary idea that was born from passion, loyalty, and persistence to face all challenges on the table, Swvl is not just a means to facilitate commuting, but a hunger to strive for solutions, encourage the contribution of youth in innovation and inspire change.
+
+Job Overview
+We are looking for a data analyst who can work cross-functionally to resolve known data quality problems in our CRM platform to support key business functions such as sales operations, customer support, marketing, order management, and business intelligence.
+
+
+Responsibilities and Duties
+1) Help the business understand customer behaviour and provide actionable recommendations through the development of CRM reporting and analysis
+2) Manipulating customer data, segmentation to help shape campaigns and communications
+3) Evaluate campaign performance and impact
+4) Work cross-functionally to resolve known data quality problems in our CRM platform to support key business functions such as sales operations, customer support, marketing, order management, and business intelligence
+5) Clean and enrich data using internal data upload tools
+6)Analyze data and identify patterns and trends causing data issues
+7)Create documentation around data management based on changing business definitions processes and keep existing documents up to date on a monthly basis
+8)Build dashboards and reports using internal tools to track key business metrics and internal data quality team metrics
+9) Work on strategic projects to improve overall data quality in our CRM & MDM platforms.
+
+Desired Skills
+- 3+ years’ experience working in a CRM Data focused role
+- Experience/knowledge across CRMs
+- Strong experience with SQL is essential
+- Ability to build segmentation models – Customer Lifetime Value and RFM models
+- Ability to build attribution, propensity and churn models
+- Experience of Google Analytics would be ideal
+- Passionate about data and sales
+- Experience working with Salesforce is essential
+- Ability to present complex information to a variety of stakeholders at all levels
+- Prior programming experience in any major programming language: Python, Java, C++, etc
+- Strong communication skills and ability to work with cross-functional teams.
+- Strong analytical and problem solving skills, and high attention to detail.
+- Eager to develop new knowledge and expertise.
+- Self-motivated to dig into data.
+
+What We Offer
+Great opportunity to be part of a start-up with a lot of responsibility and independence early on and where you will have an impact on the entire business
+Attractive compensation package"
+22,Lead Data Analytics Engineer,CookUnity,Argentina,hace 1 semana,"Publicado por
+Aldana Mandino
+Talent Acquisition Specialist at CookUnity
+Enviar mensaje InMail
+CookUnity is the first Chef-Direct Subscription service—a chef-to-food lover marketplace connecting the country's most talented chefs with eaters (consumers). We’re changing meal delivery by bringing small-batch, restaurant-quality meals to eaters across the country. Every week, a diverse collective of all-star chefs craft their signature, ready-to-eat dishes for an elevated at-home dining experience.
+
+CookUnity is home to more than 50 of NYC, LA, Austin, Chicago and Atlanta's most inspired and innovative chefs. Through a weekly subscription, eaters can select from a diverse, ever-changing menu of hundreds of hand-crafted meals. Our chefs create dishes that cater to a wide variety of palates and dietary preferences, so the best part of dining out can be enjoyed by everyone.
+
+Delivering more than 5M meals per year and growing 4x YoY, CookUnity is also helping improve the livelihood of working chefs, doubling their income, enabling the growth of their own teams and personal brands. And believing that healthy food fuels stronger communities, CookUnity partners with Food Bank For New York City, the city’s major hunger-relief organization, working to end food insecurity across all five boroughs.
+
+A growing startup with kitchens in Brooklyn, Los Angeles, Chicago, Austin and Atlanta, CookUnity reaches subscribers throughout the country, with ambitious national expansion planned for 2022.
+
+Join Us!
+
+The Role
+We're looking for a talented Senior Data Engineer that loves food, big challenges, and a powerful purpose.
+
+Data is critical to the success of a company, and as the lead engineer you'll be building the core foundation that will enable CookUnity to rapidly scale. This role will serve as the ambassador for modern software techniques and best practices across the Data & Analytics team.
+
+Responsibilities
+Design and build a delta lake or data warehouse from the ground up.
+Develop efficient ELT processes, utilizing Fivetran / Stitch where possible to streamline ingestion.
+Translate complex business requirements and raw data into transformed tables to support analysis across all areas of the business.
+Create a common data framework so that entire organizational data can be analyzed in both a unified and reliable manner.
+Grow and nurture a data engineering team, supporting, mentoring, and developing highly-skilled engineers, balancing hands-on data engineering with advice, mentoring, and process.
+Manage data quality and testing, the data catalog, lineage, and documentation.
+Introduce new infrastructure to support CookUnity data needs.
+Build out new data engineering workstreams to support data science modeling and other real-time analytics use cases.
+
+Qualifications
+6+ years of progressive and relevant data engineering experience.
+3+ years as a lead engineer, diagnosing complex issues, managing junior engineers, and owning the engineering architecture.
+Proven background leading the design and creation of a delta lake or data warehouse, with demonstrated knowledge of ETL/ELT best practices.
+Advanced SQL to create data pipelines that solve complex business needs.
+Experience with dbt is highly desirable.
+Experience with Fivetran or Stitch is a plus.
+Experience with a subscription business is a plus.
+
+Benefits
+Above market USD compensation.
+PTO: 15 business days + 16 National Holidays (Argentina).
+Compassionate, Caregiver, or Bereavement Leave: 3 – 5 days each time the need arises.
+Parental Leave: 12 weeks at full pay for the primary caregiver and 4 weeks for secondary caregiver
+English lessons and meditation sessions.
+Company notebook.
+Awesome opportunity to join a company that is looking to change how we eat and how chefs work!
+
+
+If you’re interested in this role, please submit your application and if we think you might be a fit, we'll get in touch with you. Thank you for your time!"
+23,Middle Data Engineer,GlobalLogic,"Provincia de Buenos Aires, Argentina",hace 3 semanas,"Publicado por
+Solomiya Boyko
+Recruitment Specialist - GlobalLogic
+Enviar mensaje InMail
+GlobalLogic, a Hitachi Group Company, is a full-lifecycle product development services leader that combines chip-to-cloud software engineering expertise and vertical industry experience to help our customers design, build, and deliver their next generation products and digital experiences. We expertly integrate design, complex engineering, and agile delivery capabilities to produce superior business outcomes for global brands.
+
+Job Description
+Strong combined experience (3-5+ years) in working with python and libraries (pandas, scikit-learn, numpy) for analytics and/or data pipelines
+1+ year experience in working with AWS or similar Cloud solutions.
+GIT experience
+Ability to document technical solutions and define development tasks accurately
+Familiarity with various third party analytics tools (such as mParticle, Braze, Amplitude) a plus
+Job Responsibilities
+Building out data pipelines using AWS infrastructure (lambdas, batch, steps, etc)
+Defining standardized tracking requirements for development teams based on requirements from different departments such as marketing, product, BI, research.
+Creating and supporting validation pipelines for continuous monitoring of the quality of data
+Helping pinpoint and fix issues in data quality
+Support data input and output configurations via CDP (mParticle)
+Guide different product development teams on experimentation initiatives
+
+Department/Project Description
+This is an opportunity to join a worldwide community of developers that create and deliver fast and innovative media and networked applications for ios mobile.
+Our customer is a group of media channels that consists of 9 entertainment TV channels. We are building multiplatform and multitenant applications that consist of smaller pieces that are hooked together via API to make more flexible applications."
+24,Data Engineer,Atos,"Buenos Aires, Provincia de Buenos Aires, Argentina",hace 1 semana,"Publish Date Apr 5, 2022
+
+Location
+
+Capital Federal, Buenos Aires, AR-Argentina
+
+
+
+Company Atos
+
+About Atos
+
+Atos is a global leader in digital transformation with 107,000 employees and annual revenue of over € 11 billion. European number one in cybersecurity, cloud and high performance computing, the Group provides tailored end-to-end solutions for all industries in 71 countries. A pioneer in decarbonization services and products, Atos is committed to a secure and decarbonized digital for its clients. Atos is a SE (Societas Europaea), listed on Euronext Paris and included in the CAC 40 ESG and Next 20 Paris Stock indexes.
+
+The purpose of Atos is to help design the future of the information space. Its expertise and services support the development of knowledge, education, and research in a multicultural approach and contribute to the development of scientific and technological excellence. Across the world, the Group enables its customers and employees, and members of societies at large to live, work and develop sustainably, in a safe and secure information space.
+
+¿Querés ampliar tus horizontes en tecnología? ¿Estás preparado para combinar tu motivación y profesionalismo para llevar tu carrera al máximo?
+
+¡En Atos Argentina tenés tu lugar!
+
+Vos podes ser parte de un equipo de apasionados por la evolución digital. En Atos Argentina tendrás la posibilidad de desarrollarte y crecer en tecnología dentro de una organización internacional que lidera los proyectos más importantes de transformación digital. Tendrás la oportunidad de aprender día a día junto con los mejores expertos de IT en un entorno dinámico y desafiante.
+
+En Atos Argentina, empresa líder multinacional en servicios de consultoría y soluciones tecnológicas, estamos sumando Data Engineers o Data Analytics para formar parte del equipo dedicado a Google USA.
+
+Valoramos de vos
+Required one of the following certifications (No excluyente)
+Google Professional Cloud Data Engineer or
+Google Associate Cloud Engineer
+Must have experience working with GCP Projects
+Minimum 3+ years of experience with data pipelines and data analytics in the cloud (preferably GCP)
+Minimum 3+ years of experience in products like Big Query, Snowflake or Dataproc.
+Experience with architecting, implementing and/or maintaining technical solutions in virtualized environments.
+Experience in design, architecture and implementation of Data warehouses, data pipelines and flows.
+Experience with reading software code in one or more languages such as Java, Python and SQL.
+Experience designing and deploying large scale distributed data processing systems with few technologies such as Oracle, MS SQL Server, MySQL, PostgreSQL, MongoDB, Cassandra, Redis, Hadoop, Spark, HBase, Vertica, Netezza, Teradata, Tableau, Qlik or MicroStrategy.
+Customer facing migration experience, including service discovery, assessment, planning, execution, and operations.
+Excellent Spanish & English written, verbal and presentation communication skills, with a focus on translating business requirements into technology solutions and vice versa
+
+Ofrecemos los siguientes beneficios
+Cobertura Médica Prepaga de Primer Nivel, para vos y tu grupo familiar.
+4 días Atos (días libres) al año.
+Día de cumpleaños Flex (Podes tomarlo en cualquier momento del año).
+Plataforma Club Atos En nuestro portal de beneficios, podrás acceder a actividades de bienestar, capacitaciones, shows y sorteos exclusivos para colaboradores de Atos. ¡Descubrí nuestros descuentos en Gimnasios, planes de telefonía celular y muchísimo más!
+Si estás estudiando o querés seguir estudiando
+24 días al año de licencia por estudio.
+Acceso a plataforma de e-learning para aprendizaje de idiomas, habilidades técnicas y desarrollo de competencias.
+
+Si no estás no certificado en Google Cloud Platform, te brindamos la capacitación para que puedas certificar.
+
+Lugar de Trabajo 100% remoto.
+
+Horario de L a V de 9hs a 18hs.
+
+Here at Atos, we want all of our employees to feel valued, appreciated, and free to be who they are at work. Our employee lifecycle processes are designed to prevent discrimination against our people regardless of gender identity or expression, sexual orientation, religion, ethnicity, age, neurodiversity, disability status, citizenship, or any other aspect which makes them unique. Across the globe, we have created a variety of programs to embed our Atos culture of inclusivity, and work hard to ensure that all of our employees have an equal opportunity to contribute and feel that they are exactly where they belong."
